@@ -196,5 +196,6 @@ void _initIfRequired() {
   _register('Ο','\u038C\u1FF8\u1F48\u1F4C\u1F4A\u1F49\u1F49\u1F4B');
   _register('Υ','\u038E\u1FEA\u1F59\u1F5D\u1F5B\u1F5F\u03AB\u1FE9\u1FE8');
   _register('Ω','\u038F\u1FFA\u1F68\u1F6C\u1F6A\u1F6E\u1F69\u1F6D\u1F6B\u1F6F');
+  _register('Ρ','\u1FEC');
   _initialized = true;
 }
